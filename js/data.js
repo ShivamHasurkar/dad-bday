@@ -74,7 +74,11 @@ const TIMELINE = [
     name: "Mom & Dad",
     relation: "Parents",
     language: "marathi",
-    message: " चरंजव रवी, ता आयातल अनभवांचे मोत असेच साठत राहोत, तला आनंद आण आरोदाय जवन लाभो. ६१ ा वाढद वसाा लाख लाख शभेा! आई आण अ ांकडन अनेक आश वाद.",
+    message: `"चिरंजीव रवी, 
+तुझ्या आयुष्यातील अनुभवांचे मोती असेच साठत राहोत, तुला आनंदी आणि आरोग्यदायी जीवन लाभो. 
+६१ व्या वाढदिवसाच्या लाख लाख शुभेच्छा! 
+आई आणि अण्णांकडून अनेक आशीर्वाद." 🙌🙌
+`,
     image: "images/01-parents.jpg",
   },
   {
@@ -83,7 +87,25 @@ const TIMELINE = [
     name: "Rekha & Rupa",
     relation: "Sisters",
     language: "marathi",
-    message: "[मराठी संदेश — रेखा आणि रुपा येथे लिहा]",
+    message: `प्रिय दादा, 
+    एकसष्ट वर्षांचा सुंदर प्रवास,
+    प्रेम, माया आणि अनुभवांचा सुवास.
+    घराचा आधार, प्रेमळ सावली,
+    तुमच्यामुळेच उजळली प्रत्येक पायरी.
+    
+    तुमचे शब्द देतात धैर्य नवे,
+    तुमचे प्रेम सदैव मनाला हवे.
+    सुख-दुःखात कायम साथ दिलीत,
+    आमच्या जीवनाला अर्थ मिळवून दिलात.
+    
+    देव करो आरोग्य उत्तम राहो,
+    आनंदाने प्रत्येक दिवस फुलो.
+    दीर्घायुष्य, यश आणि भरभराट लाभो,
+    तुमच्या चेहऱ्यावर सदैव हास्य राहो.
+    
+    तुमचा आम्हाला अभिमान आहे,
+    तुमचे प्रेमच आमचे खरे धन आहे.
+    ६१ व्या वाढदिवसाच्या लाख लाख शुभेच्छा! 🙏`,
     image: "images/02-sisters-rekha-rupa.jpg",
   },
   {
@@ -92,7 +114,12 @@ const TIMELINE = [
     name: "Sharadchandra & Mahananda Kadam",
     relation: "Parents-in-law",
     language: "marathi",
-    message: "[मराठी संदेश — शरदचंद्र आणि महानंदा कदम येथे लिहा]",
+    message: `प्रिय रवींद्र,
+तुम्हाला ६१ व्या वाढदिवसाच्या खूप खूप शुभेच्छा! 🎉
+सुरुवातीच्या काळात व्यवसाय उभा करण्यासाठी आणि कुटुंबाला सावरण्यासाठी तुम्ही जो संघर्ष केलात, तो आम्ही अगदी जवळून पाहिला आहे. आज एक यशस्वी व्यावसायिक, एक उत्तम पती आणि एक आदर्श पिता म्हणून तुम्ही जे स्थान निर्माण केलं आहे, त्याचा आम्हाला सार्थ अभिमान वाटतो.
+मुलांच्या जडणघडणीत आणि त्यांच्या यशात तुमचा वाटा खूप मोठा आहे. त्यांना दिलेले संस्कार, योग्य मार्गदर्शन आणि तुमचा भक्कम पाठिंबा यामुळेच आज मुले अमेरिकेत जाऊन त्यांचं मास्टर्स (Master's) पूर्ण करू शकली आणि तिथे त्यांनी अत्यंत चांगली नोकरी मिळवली. हे सर्व तुमच्या खंबीरपणाचे आणि दूरदृष्टीचे फळ आहे.
+तुम्ही आणि वैशाली नी एकमेकांना ज्या प्रकारे साथ दिली, ते खरोखरच कौतुकास्पद आहे. मग तो व्यवसाय वाढवण्याचा काळ असो किंवा मुलांचं संगोपन करण्याची जबाबदारी असो, तुम्ही दोघांनीही एकमेकांना खंबीर साथ देत प्रत्येक गोष्ट उत्तमरीत्या पार पाडली. तुमचं हे घट्ट नातं, एकमेकांबद्दलचं प्रेम आणि समजूतदारपणा पाहून आमच्या मनाला खूप समाधान मिळतं.
+तुमच्या यापुढील आयुष्यात तुम्हाला उत्तम आरोग्य, सुख, शांती आणि दीर्घायुष्य लाभो, हीच ईश्वरचरणी प्रार्थना. पुन्हा एकदा वाढदिवसाच्या मनःपूर्वक शुभेच्छा!`,
     image: "images/04-parents-in-law-kadam.jpg",
   },
   {
@@ -135,7 +162,18 @@ Have a fantastic birthday, filled with all the love, joy, and celebration you de
     name: "Vijay Bhise",
     relation: "Brother-in-law",
     language: "marathi",
-    message: "[मराठी संदेश — विजय भिसे येथे लिहा]",
+    message: `प्रिय रवी,
+
+तुला ६१ व्या वाढदिवसाच्या मनःपूर्वक शुभेच्छा!
+
+जीवनातील हा सुंदर टप्पा गाठताना, तू मेहनत, धैर्य आणि जिद्दीने उभं केलेलं आयुष्य खरंच कौतुकास्पद आहे. इतरांसारखी नोकरी करण्यापेक्षा स्वतःचा मार्ग तयार करण्यावर तुझा नेहमी विश्वास होता. व्यवसाय आणि टेलिकॉम क्षेत्रातील तुझ्या प्रवासात यश आणि आव्हानं दोन्हीही तू सकारात्मकतेने आणि खंबीरपणे पेललीस.
+
+पण व्यवसायातील यशापेक्षाही, तू आणि वैशाली यांनी घडवलेलं सुंदर कुटुंब हीच तुमची सर्वात मोठी कमाई आहे. शिवम आणि ऋतुजा यांनी चांगलं शिक्षण घेऊन अमेरिकेत स्वतःचं यशस्वी आयुष्य उभारलं, हे पाहून खूप अभिमान वाटतो. त्यांच्या यशामागे तुम्ही दिलेले संस्कार, शिस्त आणि पाठिंबा स्पष्टपणे दिसून येतो.
+
+आज ६१ वर्षांचा टप्पा गाठताना, प्रामाणिकपणे, कष्टाने आणि उत्तम कौटुंबिक मूल्यांसह जगलेलं आयुष्य मागे वळून पाहताना निश्चितच समाधान देणारं आहे.
+
+तुला उत्तम आरोग्य, आनंद, शांतता आणि पुढील आयुष्यात अनेक सुखद क्षण लाभो हीच शुभेच्छा.
+`,
     image: "images/07-vijay-bhise.jpg",
   },
   // {
@@ -153,7 +191,13 @@ Have a fantastic birthday, filled with all the love, joy, and celebration you de
     name: "Madhuri & Hemant Panhalkar",
     relation: "Sister-in-law & Brother-in-law",
     language: "marathi",
-    message: "[मराठी संदेश — माधुरी आणि हेमंत पान्हाळकर येथे लिहा]",
+    message: `रवि भाऊजी तुम्हाला वाढदिवसाच्या हार्दिक शुभेच्छा.
+
+रविंद्र राव म्हणजे सूर्य नावाप्रमाणे तेजस्वी आहे ज्या ठिकाणी जातील तेथे ते त्यांची छाप पाडतातच आणि हसरेकर आडनावा प्रमाणे सर्वांना आपल्या कडे पाहून उत्साहाने हसवून बोलून आनंद देतात व सगळीकडे आनंद पसरवतात. भाऊजी असे व्यक्ती आहे मुलांबरोबर मुलांसारखे मोठ्यांमध्ये मोठ्यांसारखे वागतात.
+
+पुढील आयुष्य असच अन्नदान, भरभराटीने, समृद्धीत जावो.
+
+भाऊजी तुम्हाला परत एकदा वाढदिवसाच्या शुभेच्छा.`,
     image: "images/09-madhuri-hemant-panhalkar.jpg",
   },
   {
@@ -202,14 +246,9 @@ Wishing you lots of good health, adventures, laughter, and happiness always`,
     relation: "Niece & Nephew",
     language: "english",
     message: `Happy 61st Birthday, Mama!
-It is amazing how you effortlessly balance being a brilliant businessman with being the most
-supportive and fun-loving person. Your enthusiasm for technology always inspires us, and we
-absolutely love our chats—whether we are deep diving into the latest in cybersecurity or debating
-current affairs.
-You have always been such a loving and caring presence for everyone around you. We especially
-admire how incredibly supportive you are towards all the kids in the family.
-I also have to thank you for sharing your fantastic taste in music old detective and action movies . They are absolute gold!
-and recommending those classic
+It is amazing how you effortlessly balance being a brilliant businessman with being the most supportive and fun-loving person. Your enthusiasm for technology always inspires us, and we absolutely love our chats—whether we are deep diving into the latest in cybersecurity or debating
+current affairs. You have always been such a loving and caring presence for everyone around you. We especially admire how incredibly supportive you are towards all the kids in the family.
+I also have to thank you for sharing your fantastic taste in music old detective and action movies . They are absolute gold! and recommending those classic.
 With all that said, wishing you a very happy birthday great conversations, tech discoveries, and maybe a good mystery film!
 With lots of love.`,
     image: "images/15-akshata-abhishek-kadam.jpg",
@@ -220,21 +259,7 @@ With lots of love.`,
     name: "Sejal Bhise",
     relation: "Niece",
     language: "english",
-    message: `Dear Mama,
-It's strange to think about you completing 60 because you've somehow
-always had more energy than the rest of us combined.
-Thank you for being the kind of person who never just sat on the
-sidelines. You've always shown up whether it was planning family
-trips, making everyone laugh, pushing us to do better, or randomly
-spoiling us for no reason. Somehow every family trip became louder,
-funnier, and more alive when you were around.
-But beyond all the fun memories, I think what stays with me the most
-is the way you've always shown up for people you love. One of the
-hardest phases of life feels blurry to me now, but one thing I remember
-clearly is that we never felt alone. You and mami were there every
-single day, quietly making sure we were okay even when none of us
-really knew how to be okay. You both carried so much for us without
-" - it fool heavv. and I'll always hold onto that.`,
+    message: `Dear Mama. It's strange to think about you completing 60 because you've somehow always had more energy than the rest of us combined. Thank you for being the kind of person who never just sat on the sidelines. You've always shown up whether it was planning family trips, making everyone laugh, pushing us to do better, or randomly spoiling us for no reason. Somehow every family trip became louder. funnier, and more alive when you were around. But beyond all the fun memories, 1 thing what stays with me the most is the way you've always shown up for people you love. One of the hardest phases of life feels blurry to me now, but one thing I remember clearly is that we never felt alone. You and mami were there every single day, quietly making sure we were okay even when none of us really knew how to be okay. You both carried SO much for us without making it feel heavy, and Ill always hold onto that. You've always pushed us to dream bigger, work harder, and believe we can do more with our lives. I hope 61 brings you more trips, more laughter and amazing health for many years to come.`,
     image: "images/16-sejal-bhise.jpg",
   },
   {
@@ -256,10 +281,8 @@ really knew how to be okay. You both carried so much for us without
 beautiful moments life has to offer."
 I didn’t just gain a brother-in-law when you joined the family, I gained a true friend. Have a fantastic
 birthday day!
-दादांना 61 व षाा हाद क, हाद क शभेा, तमचा द वस आनंदाने आण तमचे व ष सखाने भरलेले जावो. वाढद वसाा हाद क
-शभेा! तमा खास द वसाा ेक णासाठ तमा चेहावर हा फलवत आहे… तमचा वेळ खप छान जावो आण
-वाढद वसाा खप खप शभेा! तमचा हा खास द वस तमा मनातल स व इा प ण करो!
-अश ईरचरण ा थना`,
+दादांना 61 वर्षाच्या हार्दिक, हार्दिक शुभेच्छा, तुमचा दिवस आनंदाने आणि तुमचे वर्ष सुखाने भरलेले जावो. वाढदिवसाच्या हार्दिक शुभेच्छा! तुमच्या खास दिवसाच्या प्रत्येक क्षणासाठी तुमच्या चेहऱ्यावर हास्य फुलवत आहे… तुमचा वेळ खूप छान जावो आणि वाढदिवसाच्या खूप खूप शुभेच्छा! तुमचा हा खास दिवस तुमच्या मनातील सर्व इच्छा पूर्ण करो!
+अशी ईश्वरचरणी प्रार्थना`,
     image: "images/19-deshmane-family.jpg",
   },
 ];
