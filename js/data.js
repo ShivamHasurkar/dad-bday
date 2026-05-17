@@ -79,7 +79,7 @@ const TIMELINE = [
 ६१ व्या वाढदिवसाच्या लाख लाख शुभेच्छा! 
 आई आणि अण्णांकडून अनेक आशीर्वाद." 🙌🙌
 `,
-    image: "images/01-parents.jpg",
+    image: "images/01-parents.JPG",
   },
   {
     year: 1967,
@@ -174,7 +174,7 @@ Have a fantastic birthday, filled with all the love, joy, and celebration you de
 
 तुला उत्तम आरोग्य, आनंद, शांतता आणि पुढील आयुष्यात अनेक सुखद क्षण लाभो हीच शुभेच्छा.
 `,
-    image: "images/07-vijay-bhise.jpg",
+    image: "images/07-vijay-bhise.JPG",
   },
   // {
   //   year: 1990,
@@ -251,7 +251,7 @@ current affairs. You have always been such a loving and caring presence for ever
 I also have to thank you for sharing your fantastic taste in music old detective and action movies . They are absolute gold! and recommending those classic.
 With all that said, wishing you a very happy birthday great conversations, tech discoveries, and maybe a good mystery film!
 With lots of love.`,
-    image: "images/15-akshata-abhishek-kadam.jpg",
+    image: "images/15-akshata-abhishek-kadam.JPG",
   },
   {
     year: 2000,
@@ -260,7 +260,7 @@ With lots of love.`,
     relation: "Niece",
     language: "english",
     message: `Dear Mama. It's strange to think about you completing 60 because you've somehow always had more energy than the rest of us combined. Thank you for being the kind of person who never just sat on the sidelines. You've always shown up whether it was planning family trips, making everyone laugh, pushing us to do better, or randomly spoiling us for no reason. Somehow every family trip became louder. funnier, and more alive when you were around. But beyond all the fun memories, 1 thing what stays with me the most is the way you've always shown up for people you love. One of the hardest phases of life feels blurry to me now, but one thing I remember clearly is that we never felt alone. You and mami were there every single day, quietly making sure we were okay even when none of us really knew how to be okay. You both carried SO much for us without making it feel heavy, and Ill always hold onto that. You've always pushed us to dream bigger, work harder, and believe we can do more with our lives. I hope 61 brings you more trips, more laughter and amazing health for many years to come.`,
-    image: "images/16-sejal-bhise.jpg",
+    image: "images/16-sejal-bhise.JPG",
   },
   {
     year: 2005,
